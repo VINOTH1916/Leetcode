@@ -1,38 +1,32 @@
 class Solution:
-    def largestRectangleArea(self, heights: List[int]) -> int:
-        def findSmaller(arr):
+    def largestRectangleArea(self, arr: List[int]) -> int:
+        
             n =  len(arr)
-            smallers = [n] * n
+            res = 0
             stack = []
-
             for i in range(n):
-                while stack and arr[i] < arr[stack[-1]]:
-                    smallers[stack.pop()] = i
+                while stack and arr[stack[-1]] >= arr[i]:
+                    t = stack.pop()
+                
+                    if stack:
+                        wid = i - stack[-1] - 1
+                    else:
+                        wid = i
+
+                    res = max(res,wid*arr[t])
+
                 stack.append(i)
 
-            return smallers
-        def prevSmaller(arr):
-            n = len(arr)
-            smaller = [-1] * n
-            stack = []
+            while stack:
+                t = stack.pop()
+                if not stack:
+                    wid = n
+                else:
+                    wid = n - stack[-1] - 1
 
-            for i in range(n - 1, -1, -1):
-                while stack and arr[i] < arr[stack[-1]]:
-                    smaller[stack.pop()] = i
-                stack.append(i)
+                res = max(res, wid*arr[t])
 
-            return smaller
-
-        nextS = findSmaller(heights)
-        prevS = prevSmaller(heights)
-
-        res = 0
-
-        for i in range(len(heights)):
-            dist = nextS[i] - prevS[i] - 1
-            res = max(res, heights[i]*dist)
-
-        return res
+            return res
 
 
         

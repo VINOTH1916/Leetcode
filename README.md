@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/VINOTH1916/Leetcode/tree/master/0125-valid-palindrome) |
+| [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTH1916/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/VINOTH1916/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VINOTH1916/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VINOTH1916/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->

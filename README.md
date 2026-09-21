@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINOTH1916/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VINOTH1916/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/VINOTH1916/Leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/VINOTH1916/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Array
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINOTH1916/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/VINOTH1916/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINOTH1916/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/VINOTH1916/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Manacher
 |  |
 | ------- |

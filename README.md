@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VINOTH1916/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VINOTH1916/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTH1916/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/VINOTH1916/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VINOTH1916/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/VINOTH1916/Leetcode/tree/master/0853-car-fleet) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VINOTH1916/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VINOTH1916/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTH1916/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/VINOTH1916/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VINOTH1916/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VINOTH1916/Leetcode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/VINOTH1916/Leetcode/tree/master/0853-car-fleet) |
 ## Greedy
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINOTH1916/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/VINOTH1916/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/VINOTH1916/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/VINOTH1916/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VINOTH1916/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

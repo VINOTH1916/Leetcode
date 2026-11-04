@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTH1916/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VINOTH1916/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VINOTH1916/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/VINOTH1916/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VINOTH1916/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VINOTH1916/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/VINOTH1916/Leetcode/tree/master/0853-car-fleet) |

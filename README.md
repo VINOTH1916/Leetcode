@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VINOTH1916/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VINOTH1916/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VINOTH1916/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/VINOTH1916/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/VINOTH1916/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/VINOTH1916/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VINOTH1916/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VINOTH1916/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VINOTH1916/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/VINOTH1916/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/VINOTH1916/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VINOTH1916/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
